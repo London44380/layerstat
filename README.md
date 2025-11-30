@@ -1,8 +1,8 @@
-LayerStat Network Layer DDOS Detection Tool
-
 <img width="1024" height="1024" alt="generated-image" src="https://github.com/user-attachments/assets/5e6c59ec-b780-46ac-9bdd-2ee8eb4ae900" />
 
 ![Python](https://img.shields.io/badge/python-v3.7%2B-blue)
+
+LayerStat Network Layer DDOS Detection Tool
 
 LayerStat is an open-source Python tool designed for real-time detection of network (Layer 3/4) and application layer (Layer 7 HTTP) DDoS attacks.
 It provides network traffic capture and analysis with threshold-based detection, console output of essential statistics (packets, SYN, UDP, HTTP requests), and dynamic alerts.
